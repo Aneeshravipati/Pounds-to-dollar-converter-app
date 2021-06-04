@@ -1,0 +1,2 @@
+rootProject.name = "pounds to dollar converter"
+include ':app'
